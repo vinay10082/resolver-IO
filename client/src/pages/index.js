@@ -1,0 +1,7 @@
+export { default as Login } from './Login'
+export { default as Register } from './Register'
+export { default as Summary } from './Summary'
+export { default as Paragraph } from './Paragraph'
+export { default as Chatbot } from './Chatbot'
+export { default as JSconverter } from './JSconverter'
+export { default as ScifiImage } from './ScifiImage'

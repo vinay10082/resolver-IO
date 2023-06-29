@@ -1,0 +1,11 @@
+.App {
+    box-sizing: border-box;
+    max-width: 1200px;
+    scroll-behavior: smooth;
+    margin: auto;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
